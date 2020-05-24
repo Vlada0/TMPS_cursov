@@ -1,0 +1,219 @@
+D:\Patterns\Patterns\bin\Debug\Patterns.exe.config
+D:\Patterns\Patterns\bin\Debug\Patterns.exe
+D:\Patterns\Patterns\bin\Debug\Patterns.pdb
+D:\Patterns\Patterns\bin\Debug\EntityFramework.dll
+D:\Patterns\Patterns\bin\Debug\EntityFramework.SqlServer.dll
+D:\Patterns\Patterns\bin\Debug\EntityFramework.xml
+D:\Patterns\Patterns\bin\Debug\EntityFramework.SqlServer.xml
+D:\Patterns\Patterns\obj\Debug\Patterns.Form1.resources
+D:\Patterns\Patterns\obj\Debug\Patterns.Form_EditProduct.resources
+D:\Patterns\Patterns\obj\Debug\Patterns.Properties.Resources.resources
+D:\Patterns\Patterns\obj\Debug\Patterns.UC_Orders.resources
+D:\Patterns\Patterns\obj\Debug\Patterns.UC_Employees.resources
+D:\Patterns\Patterns\obj\Debug\Patterns.UC_Products.resources
+D:\Patterns\Patterns\obj\Debug\Patterns.UC_Categories.resources
+D:\Patterns\Patterns\obj\Debug\Patterns.csproj.GenerateResource.Cache
+D:\Patterns\Patterns\obj\Debug\Patterns.exe
+D:\Patterns\Patterns\obj\Debug\Patterns.pdb
+D:\Patterns\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+D:\Patterns\Patterns\obj\Debug\Patterns.UC_Storage.resources
+D:\Patterns\Patterns\obj\Debug\Patterns.UC_Clients.resources
+D:\Patterns\Patterns\obj\Debug\Patterns.Form_AddNew.resources
+D:\Patterns\Patterns\bin\Debug\Resources\cupboard4.jpg
+D:\Patterns\Patterns\bin\Debug\Resources\chair5.jpg
+D:\Patterns\Patterns\bin\Debug\Resources\cupboards.jpg
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Resources\chair5.jpg
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Resources\cupboard4.jpg
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Resources\cupboards.jpg
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Patterns.exe
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Patterns.pdb
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\EntityFramework.dll
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\EntityFramework.xml
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.Form1.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.Form_AddNew.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.Form_InfoProduct.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.Form_EditProduct.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.Properties.Resources.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.UC_Clients.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.UC_Storage.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.UC_Orders.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.UC_Employees.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.UC_Products.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.UC_Categories.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.csproj.GenerateResource.Cache
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.exe
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.pdb
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.Form_Main.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.UC_Logo.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.Form_Collection.resources
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Form_AddNew.resx
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Form_AddNew.cs
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Form_AddNew.Designer.cs
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Resources\chair.jpg
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Resources\chair1.jpg
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Resources\chair2.jpg
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Resources\chair3.jpg
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\bin\Debug\Resources\chair4.jpg
+C:\Users\Vlada\Downloads\Patterns (2)\Patterns\obj\Debug\Patterns.Form_AddLike.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Patterns.exe.config
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.exe
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.pdb
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.resx
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.cs
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.Designer.cs
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Resources\chair.jpg
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Resources\chair1.jpg
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Resources\chair2.jpg
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Resources\chair3.jpg
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Resources\chair4.jpg
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Resources\chair5.jpg
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Resources\cupboard4.jpg
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Resources\cupboards.jpg
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Patterns.exe
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\Patterns.pdb
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.dll
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.SqlServer.dll
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.xml
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.SqlServer.xml
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form1.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_AddNew.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_Collection.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_AddLike.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_InfoProduct.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_EditProduct.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_Main.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.Properties.Resources.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Clients.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Logo.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Storage.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Orders.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Employees.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Products.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Categories.resources
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.csproj.GenerateResource.Cache
+D:\TMPS_curs-master\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Statistic.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.resx
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.cs
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.Designer.cs
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Resources\chair.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Resources\chair1.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Resources\chair2.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Resources\chair3.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Resources\chair4.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Resources\chair5.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Resources\cupboard4.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Resources\cupboards.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Patterns.exe
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\Patterns.pdb
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.dll
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.xml
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form1.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_AddNew.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_Collection.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_AddLike.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_InfoProduct.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_EditProduct.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_Main.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.Properties.Resources.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Clients.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Departments.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Logo.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Personal.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Statistic.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Storage.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Orders.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Employees.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Products.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Categories.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.csproj.GenerateResource.Cache
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.exe
+C:\Users\Vlada\Downloads\TMPS_curs-master (2)\TMPS_curs-master\Patterns\obj\Debug\Patterns.pdb
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Patterns.exe.config
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.exe
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.pdb
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.resx
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.cs
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.Designer.cs
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair.jpg
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair1.jpg
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair2.jpg
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair3.jpg
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair4.jpg
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair5.jpg
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\cupboard4.jpg
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\cupboards.jpg
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Patterns.exe
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Patterns.pdb
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.dll
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.SqlServer.dll
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.xml
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.SqlServer.xml
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form1.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_AddNew.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_Collection.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_AddLike.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_InfoProduct.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_EditProduct.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_Main.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Properties.Resources.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Clients.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Departments.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Logo.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Personal.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Statistic.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Storage.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Orders.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Employees.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Products.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Categories.resources
+D:\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.csproj.GenerateResource.Cache
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.exe
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.pdb
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.resx
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.cs
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Form_AddNew.Designer.cs
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair1.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair2.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair3.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair4.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\chair5.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\cupboard4.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Resources\cupboards.jpg
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Patterns.exe
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\Patterns.pdb
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.dll
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.xml
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form1.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_AddNew.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_Collection.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_AddLike.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_InfoProduct.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_EditProduct.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Form_Main.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.Properties.Resources.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Clients.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Departments.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Logo.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Personal.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Statistic.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Storage.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Orders.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Employees.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Products.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.UC_Categories.resources
+C:\Users\Vlada\Downloads\TMPS_curs-master-20200521T123619Z-001\TMPS_curs-master\Patterns\obj\Debug\Patterns.csproj.GenerateResource.Cache

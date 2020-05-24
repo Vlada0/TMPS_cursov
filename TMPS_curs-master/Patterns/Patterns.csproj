@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D9A6824-5233-4BE8-98AE-78668CDE7087}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Patterns</RootNamespace>
+    <AssemblyName>Patterns</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adapter\ProductsAdapter.cs" />
+    <Compile Include="ChainOfResponsibility\BaseHandler.cs" />
+    <Compile Include="ChainOfResponsibility\IHandler.cs" />
+    <Compile Include="ChainOfResponsibility\MontageHandler.cs" />
+    <Compile Include="ChainOfResponsibility\SaleHandler.cs" />
+    <Compile Include="ChainOfResponsibility\StorageHandler.cs" />
+    <Compile Include="Command\AddArmsCommand.cs" />
+    <Compile Include="Command\AddHeadboardCommand.cs" />
+    <Compile Include="Composite\Component.cs" />
+    <Compile Include="Composite\MontageEmployee.cs" />
+    <Compile Include="Composite\SaleEmployee.cs" />
+    <Compile Include="Composite\StorageEmployee.cs" />
+    <Compile Include="Decorator\HeadBoardDecorator.cs" />
+    <Compile Include="Decorator\ArmsDecorator.cs" />
+    <Compile Include="Command\ChangeStyleCommand.cs" />
+    <Compile Include="Command\ChangeMaterialCommand.cs" />
+    <Compile Include="Command\ChangeColorCommand.cs" />
+    <Compile Include="Command\ICommand.cs" />
+    <Compile Include="Command\UndoRedoStack.cs" />
+    <Compile Include="Decorator\BaseDecorator.cs" />
+    <Compile Include="Form_AddNew.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Form_AddNew.Designer.cs">
+      <DependentUpon>Form_AddNew.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Form_Collection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Collection.Designer.cs">
+      <DependentUpon>Form_Collection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AddLike.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AddLike.Designer.cs">
+      <DependentUpon>Form_AddLike.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_InfoProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_InfoProduct.Designer.cs">
+      <DependentUpon>Form_InfoProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Main.Designer.cs">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Clients.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Clients.Designer.cs">
+      <DependentUpon>UC_Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Departments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Departments.Designer.cs">
+      <DependentUpon>UC_Departments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Logo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Logo.Designer.cs">
+      <DependentUpon>UC_Logo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Personal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Personal.Designer.cs">
+      <DependentUpon>UC_Personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Statistic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Statistic.Designer.cs">
+      <DependentUpon>UC_Statistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Storage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Storage.Designer.cs">
+      <DependentUpon>UC_Storage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Orders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Orders.Designer.cs">
+      <DependentUpon>UC_Orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Employees.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Employees.Designer.cs">
+      <DependentUpon>UC_Employees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_EditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_EditProduct.Designer.cs">
+      <DependentUpon>Form_EditProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Department.cs" />
+    <Compile Include="Model\Employee.cs" />
+    <Compile Include="Prototype\Chair.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Category.cs" />
+    <Compile Include="Model\Client.cs" />
+    <Compile Include="Model\DBInitializer.cs" />
+    <Compile Include="Model\ObservableListSource.cs" />
+    <Compile Include="Model\Order.cs" />
+    <Compile Include="Model\Product.cs" />
+    <Compile Include="Model\ProductContext.cs" />
+    <Compile Include="Model\Store.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Prototype\Bed.cs" />
+    <Compile Include="Prototype\Armchair.cs" />
+    <Compile Include="Prototype\Sofa.cs" />
+    <Compile Include="Prototype\Cupboard.cs" />
+    <Compile Include="Prototype\Table.cs" />
+    <Compile Include="Singleton\DatabaseSingleton.cs" />
+    <Compile Include="UC_Products.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Products.Designer.cs">
+      <DependentUpon>UC_Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Categories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Categories.Designer.cs">
+      <DependentUpon>UC_Categories.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AddNew.resx">
+      <DependentUpon>Form_AddNew.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Collection.resx">
+      <DependentUpon>Form_Collection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AddLike.resx">
+      <DependentUpon>Form_AddLike.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_InfoProduct.resx">
+      <DependentUpon>Form_InfoProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_EditProduct.resx">
+      <DependentUpon>Form_EditProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Main.resx">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UC_Clients.resx">
+      <DependentUpon>UC_Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Departments.resx">
+      <DependentUpon>UC_Departments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Logo.resx">
+      <DependentUpon>UC_Logo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Personal.resx">
+      <DependentUpon>UC_Personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Statistic.resx">
+      <DependentUpon>UC_Statistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Storage.resx">
+      <DependentUpon>UC_Storage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Orders.resx">
+      <DependentUpon>UC_Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Employees.resx">
+      <DependentUpon>UC_Employees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Products.resx">
+      <DependentUpon>UC_Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Categories.resx">
+      <DependentUpon>UC_Categories.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AbstractFactory\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chair.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chair1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chair2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chair3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chair4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chair5.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bed1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bed2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bed3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bed4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armchair1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armchair2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armchair3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armchair4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armchair5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armchairs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cupboard1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cupboard2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cupboard3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cupboard4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cupboards.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sofa1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sofa2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sofa3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sofa4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sofa5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sofas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maple.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\metall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wood.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loft.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modern.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Dieses Projekt verweist auf mindestens ein NuGet-Paket, das auf diesem Computer fehlt. Verwenden Sie die Wiederherstellung von NuGet-Paketen, um die fehlenden Dateien herunterzuladen. Weitere Informationen finden Sie unter "http://go.microsoft.com/fwlink/?LinkID=322105". Die fehlende Datei ist "{0}".</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
